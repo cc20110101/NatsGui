@@ -1,0 +1,11 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+    <file>resources/tray.ico</file>
+    <file>resources/exit.ico</file>
+    <file>resources/update.ico</file>
+    <file>resources/about.ico</file>
+    <file>resources/103.ico</file>
+    <file>resources/104.ico</file>
+</qresource>
+</RCC>
